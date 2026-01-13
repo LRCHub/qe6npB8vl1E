@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼうけんのしょがきえました！[Long ver.]",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2026-01-13T11:28:18.246385Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼうけんのしょがきえました![Long ver.]",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_ぼうけんのしょがきえました![Long_ver.]_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
